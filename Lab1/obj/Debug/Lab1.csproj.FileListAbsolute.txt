@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\OOC II Lab\Lab1\bin\Debug\Lab1.dll
+C:\Users\ASUS\Desktop\OOC II Lab\Lab1\bin\Debug\Lab1.pdb
+C:\Users\ASUS\Desktop\OOC II Lab\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OOC II Lab\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOC II Lab\Lab1\obj\Debug\Lab1.dll
+C:\Users\ASUS\Desktop\OOC II Lab\Lab1\obj\Debug\Lab1.pdb

@@ -1,0 +1,2 @@
+Defender class is dependent on the instance of FootballPlayer class which is passed as a parameter.
+Any change in the FootballPlayer class will have direct effect on the Defender class.

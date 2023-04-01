@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\OOC II Lab\LAB1-oop\obj\Debug\net6.0\LAB1-oop.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OOC II Lab\LAB1-oop\obj\Debug\net6.0\LAB1-oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\OOC II Lab\LAB1-oop\obj\Debug\net6.0\LAB1-oop.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\OOC II Lab\LAB1-oop\obj\Debug\net6.0\LAB1-oop.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\OOC II Lab\LAB1-oop\obj\Debug\net6.0\LAB1-oop.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOC II Lab\LAB1-oop\bin\Debug\net6.0\LAB1-oop.exe
+C:\Users\ASUS\Desktop\OOC II Lab\LAB1-oop\bin\Debug\net6.0\LAB1-oop.deps.json
+C:\Users\ASUS\Desktop\OOC II Lab\LAB1-oop\bin\Debug\net6.0\LAB1-oop.runtimeconfig.json
+C:\Users\ASUS\Desktop\OOC II Lab\LAB1-oop\bin\Debug\net6.0\LAB1-oop.dll
+C:\Users\ASUS\Desktop\OOC II Lab\LAB1-oop\bin\Debug\net6.0\LAB1-oop.pdb
+C:\Users\ASUS\Desktop\OOC II Lab\LAB1-oop\obj\Debug\net6.0\LAB1-oop.dll
+C:\Users\ASUS\Desktop\OOC II Lab\LAB1-oop\obj\Debug\net6.0\refint\LAB1-oop.dll
+C:\Users\ASUS\Desktop\OOC II Lab\LAB1-oop\obj\Debug\net6.0\LAB1-oop.pdb
+C:\Users\ASUS\Desktop\OOC II Lab\LAB1-oop\obj\Debug\net6.0\LAB1-oop.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\OOC II Lab\LAB1-oop\obj\Debug\net6.0\ref\LAB1-oop.dll
